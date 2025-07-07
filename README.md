@@ -17,6 +17,6 @@ A simple To-Do List application built using HTML , CSS and Javascript . This app
 
 - HTML
 - CSS
-- JavaScript (ES6+)
+- JavaScript
 - Optional: localStorage / Theme toggling logic
 
